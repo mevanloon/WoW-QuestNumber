@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: Quest Number
+## Version: 1.0
+## Notes: Addon that shows the current number of tracked quests
+## Author: Palladium-Runetotem
+## SavedVariables:
+
+Core.lua
